@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    background-color: cadetblue;
+    padding: 20px;
+    border: 10px solid bisque;
+
+}
+
+.item {
+    color: #020317;
+    text-decoration: none;
+}
+
+
+.active {
+    color: gold;
+}
